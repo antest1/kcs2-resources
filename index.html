@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -68,7 +69,9 @@
 			if (version != "") {
 				version_text = " (" + version + ")";
 			} 
-			$("#download-individual").append('<a href="' + item[0] + '.zip?v=' + version + '" class="btn btn-file" role="button">' + title + version_text + '</a>');
+			
+			var link = "https://github.com/antest1/kcs2-resources/raw/master" + item[0] + ".zip?v=" + version;
+			$("#download-individual").append('<a href="' + link + '" class="btn btn-file" role="button">' + title + version_text + '</a>');
 		}
 	});
 </script>
