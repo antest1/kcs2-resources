@@ -2,7 +2,6 @@
 /kcs2/img/arsenal	4.0.0.0
 /kcs2/img/battle	4.3.6.0
 /kcs2/img/battle_result	4.3.0.0
-/kcs2/img/common/bg_map	4.3.0.0
 /kcs2/img/common	4.3.6.0
 /kcs2/img/duty	4.3.2.0
 /kcs2/img/interior	4.0.0.0
@@ -15,7 +14,6 @@
 /kcs2/img/remodel	4.0.0.0
 /kcs2/img/repair	4.0.0.0
 /kcs2/img/revamp	4.2.3.0
-/kcs2/img/sally/alert	4.3.0.2
 /kcs2/img/sally	4.3.0.2
 /kcs2/img/supply	4.3.3.0
 /kcs2/img/title	4.0.0.0
