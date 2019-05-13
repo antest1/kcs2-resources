@@ -10,6 +10,7 @@
 /kcs2/img/map	4.3.0.0
 /kcs2/img/organize	4.2.0.0
 /kcs2/img/port	4.1.0.0
+/kcs2/img/prac	4.0.0.0
 /kcs2/img/record	4.0.0.0
 /kcs2/img/remodel	4.0.0.0
 /kcs2/img/repair	4.0.0.0
